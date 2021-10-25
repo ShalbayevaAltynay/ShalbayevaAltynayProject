@@ -1,0 +1,21 @@
+C:\Users\Qolqanat Sarsenov\Source\Repos\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\Qolqanat Sarsenov\Source\Repos\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\Qolqanat Sarsenov\Source\Repos\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\Qolqanat Sarsenov\Source\Repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojAssemblyReference.cache
+C:\Users\Qolqanat Sarsenov\Source\Repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Qolqanat Sarsenov\Source\Repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\Qolqanat Sarsenov\Source\Repos\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\Public\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\Public\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\Public\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\Public\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojAssemblyReference.cache
+C:\Users\Public\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Public\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\Public\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojAssemblyReference.cache
+C:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+C:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
